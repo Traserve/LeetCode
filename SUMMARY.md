@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 
 * [LeetCode](blog/README.md)
-  
   * [1. 两数之和](blog/1. Two Sum.md)
   * [2. 两数相加](blog/2. Add Two Numbers.md)
   * [3. 无重复字符的最长子串](blog/3. Longest Substring Without Repeating Characters.md)
@@ -16,8 +15,9 @@
   * [20. 有效的括号](blog/20. 有效的括号.md)
   * [24. 两两交换链表中的节点](blog/24. Swap Nodes in Pairs.md)
   * [27. 移除元素](blog/27. Remove Element.md)
-  * [28. 实现 strStr\(\)](blog/28. 实现 strStr().md)
+  * [28. 实现 strStr()](blog/28. 实现 strStr.md)
   * [59. 螺旋矩阵 II](blog/59. Spiral Matrix II.md)
+  * [69. x 的平方根](blog/69. x 的平方根.md)
   * [71. 简化路径](blog/71. 简化路径.md)
   * [84. 柱状图中最大的矩形](blog/84. Largest Rectangle in Histogram.md)
   * [85. 最大矩形](blog/85. Maximal Rectangle.md)
