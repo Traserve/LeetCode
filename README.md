@@ -2,7 +2,7 @@
 
 LeetCode做题笔记
 
-## 一 排序
+## 排序
 
 ### 冒泡排序
 
@@ -22,7 +22,11 @@ LeetCode做题笔记
 
 ### 堆排序
 
+## 一 数学
 
+1. [9. 回文数](algorithm/9. 回文数.md)
+2. [8. 字符串转换整数 (atoi)](algorithm/8. 字符串转换整数 (atoi).md)
+3. [7. 整数反转](algorithm/7. 整数反转.md)
 
 ## 二 数组
 
@@ -58,9 +62,13 @@ LeetCode做题笔记
 
 8. [142. 环形链表II](algorithm/142. 环形链表 II.md)
 
-9. [147. 对链表进行插入排序](algorithm/147. 对链表进行插入排序.md)
+9. [61. 旋转链表](algorithm/61. 旋转链表.md)
 
-10. [148. 排序链表](algorithm/148. 排序链表.md)
+10. [143. 重排链表](algorithm/143. 重排链表.md)
+
+11. [147. 对链表进行插入排序](algorithm/147. 对链表进行插入排序.md)
+
+12. [148. 排序链表](algorithm/148. 排序链表.md)
 
 ## 四 哈希表
 
@@ -92,9 +100,11 @@ LeetCode做题笔记
 
 5. [剑指 Offer 58 - II. 左旋转字符串](algorithm/剑指 Offer 58 - II. 左旋转字符串.md)
 
-6. [28. 实现 strStr()](algorithm/28. 实现 strStr().md)
+6. [28. 找出字符串中第一个匹配项的下标](algorithm/28. 找出字符串中第一个匹配项的下标.md)
 
 7. [459. 重复的子字符串](algorithm/459. 重复的子字符串.md)
+
+8. [8. 字符串转换整数 (atoi)](algorithm/8. 字符串转换整数 (atoi).md)
 
 ## 六 双指针法
 
