@@ -219,6 +219,8 @@ LeetCode做题笔记
 
 38. [114. 二叉树展开为链表](algorithm/114. 二叉树展开为链表.md)
 
+39. [剑指 Offer 36. 二叉搜索树与双向链表](algorithm/剑指 Offer 36. 二叉搜索树与双向链表.md)
+
 ## 九 回溯
 
 1. [77. 组合](algorithm/77. 组合.md)
